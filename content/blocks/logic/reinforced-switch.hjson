@@ -1,6 +1,6 @@
 type: SwitchBlock
 clickSound: click
 requirements: [ "beryllium/10", "graphite/5","silicon/5"]
-name: reinforced switch
+name: Reinforced Switch
 category: logic
 research: "reinforced-message"

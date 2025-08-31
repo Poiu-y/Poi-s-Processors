@@ -7,8 +7,6 @@ hasPower: true
 category: logic
 consumes: {
   power: 5.1
-  liquids: {
-  water/4
-  }
+  liquid: {}
 }
 requirements: [ "beryllium/1200", "tungsten/90", "silicon/150", "graphite/40","thorium/30","oxide/20",]

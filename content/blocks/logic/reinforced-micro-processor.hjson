@@ -3,9 +3,9 @@ instructionsPerTick: 1
 range: 70
 name: "Reinforced Micro Processor"
 //research: canvas
-//hasPower: true
+hasPower: true
 category: logic
-//consumes: {
-//  power: 10
-//}
+consumes: {
+  power: 10
+}
 requirements: [ "beryllium/100", "tungsten/60", "silicon/60", "graphite/20",]

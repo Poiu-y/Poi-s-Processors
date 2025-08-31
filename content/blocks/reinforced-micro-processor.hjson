@@ -1,20 +1,16 @@
 type: LogicBlock
-maxInstructionScale: 5
 instructionsPerTick: 1
-maxInstructionsPerTick: 30
 range: 70
 name: "Reinforced Micro Processor"
 research: canvas
-consumesPower: true
-connectedPower: true
 hasPower: true
 category: logic
 consumes: {
   power: 10
 }
 reqirements: [
-  beryllium/100
-  tungsten/60
-  silicon/60
-  graphite/20
+  "beryllium/100",
+  "tungsten/60",
+  "silicon/60",
+  "graphite/20",
 ]

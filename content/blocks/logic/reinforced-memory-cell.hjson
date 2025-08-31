@@ -1,5 +1,5 @@
 type: MemoryBlock
 memoryCapacity: 16
-name: reinforced memory cell
+name: Reinforced Memory Cell
 requirements: [ "beryllium/40", "graphite/50", "silicon/35","Tungsten/10",]
 research: reinforced-register

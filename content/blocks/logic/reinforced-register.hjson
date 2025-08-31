@@ -3,3 +3,4 @@ memoryCapacity: 1
 name: Reinforced Register
 requirements: [ "beryllium/10", "graphite/25", "silicon/15",]
 research: reinforced-micro-processor
+category: logic

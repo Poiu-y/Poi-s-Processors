@@ -3,3 +3,4 @@ memoryCapacity: 16
 name: Reinforced Memory Cell
 requirements: [ "beryllium/40", "graphite/50", "silicon/35","tungsten/10",]
 research: reinforced-register
+category: logic

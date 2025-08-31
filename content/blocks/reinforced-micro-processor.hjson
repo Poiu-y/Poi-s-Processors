@@ -8,6 +8,7 @@ research: canvas
 consumesPower: true
 connectedPower: true
 hasPower: true
+category: logic
 consumes: {
   power: 10
 }

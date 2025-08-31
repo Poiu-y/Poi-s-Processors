@@ -11,9 +11,9 @@ hasPower: true
 consumes: {
   power: 10
 }
-reqirements: {
+reqirements: [
   beryllium/100
   tungsten/60
   silicon/60
   graphite/20
-}
+]

@@ -1,4 +1,4 @@
-type: logicBlock
+type: LogicBlock
 maxInstructionScale: 5
 instructionsPerTick: 1
 maxInstructionsPerTick: 30

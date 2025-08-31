@@ -9,7 +9,7 @@ consumes: {
   power: 5.1
   liquid: {
     liquid: water
-    amount: 2
+    amount: 0.2
   }
 }
 requirements: [ "beryllium/1200", "tungsten/90", "silicon/150", "graphite/40","thorium/30","oxide/20",]

@@ -1,0 +1,14 @@
+type: LogicBlock
+instructionsPerTick: 1
+range: 70
+name: "Reinforced Logic Processor"
+research: reinforced-micro-processor
+hasPower: true
+category: logic
+consumes: {
+  power: 5.1
+  liquids: {
+  water/4
+  }
+}
+requirements: [ "beryllium/100", "tungsten/60", "silicon/60", "graphite/20",]

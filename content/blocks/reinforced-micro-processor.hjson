@@ -3,7 +3,7 @@ maxInstructionScale: 5
 instructionsPerTick: 1
 maxInstructionsPerTick: 30
 range: 70
-name: "Reinforced Micro Processor" 
+name: "Reinforced Micro Processor"
 research: canvas
 consumesPower: true
 connectedPower: true

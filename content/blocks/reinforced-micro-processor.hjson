@@ -2,15 +2,10 @@ type: LogicBlock
 instructionsPerTick: 1
 range: 70
 name: "Reinforced Micro Processor"
-research: canvas
-hasPower: true
+//research: canvas
+//hasPower: true
 category: logic
-consumes: {
-  power: 10
-}
-reqirements: [
-  "beryllium/100",
-  "tungsten/60",
-  "silicon/60",
-  "graphite/20",
-]
+//consumes: {
+//  power: 10
+//}
+reqirements: [ "beryllium/100", "tungsten/60", "silicon/60", "graphite/20",]

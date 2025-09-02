@@ -1,0 +1,6 @@
+type: MemoryBlock
+memoryCapacity: 256
+name: Reinforced Memory Bank
+requirements: [ "beryllium/90", "graphite/200", "silicon/140","tungsten/45","oxide/14",]
+research: reinforced-memory-cell
+category: logic

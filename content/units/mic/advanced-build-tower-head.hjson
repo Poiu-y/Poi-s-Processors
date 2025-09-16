@@ -1,11 +1,18 @@
 type: tether
 name: "Advanced Build Tower"
-flying: true
+flying: false
 buildSpeed: 1
 isEnemy: false
 logicControllable: true
 allowedInPayloads: false
 playerControllable: false
+createWreck: false
+useUnitCap: false
+deathSound: none
+deathExplosionEffect: none
+physics: false
+bounded: false
+drawCell: false
 speed: 0
 rotateSpeed: 1
 accel: 0

@@ -1,0 +1,20 @@
+type: tether
+name: "Advanced Build Tower"
+flying: true
+buildSpeed: 1
+isEnemy: false
+logicControllable: true
+allowedInPayloads: false
+playerControllable: false
+speed: 0
+rotateSpeed: 1
+accel: 0
+drag: 0.06
+lowAltitude: false
+outlineColor: 565666ff
+payloadCapacity: 0
+health: 60
+hitSize: 8
+hidden: true
+itemCapacity: 0
+engines: []

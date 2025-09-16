@@ -4,6 +4,7 @@ name: "Advanced Build Tower"
 flying: false
 buildSpeed: 1
 isEnemy: false
+canBuild:true
 logicControllable: true
 allowedInPayloads: false
 playerControllable: false

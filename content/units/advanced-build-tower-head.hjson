@@ -1,4 +1,4 @@
-type: missle
+type: tether
 lifetime: 180
 name: "Advanced Build Tower"
 flying: false

@@ -1,0 +1,22 @@
+type: UnitCargoLoader
+name: "Advanced Build Tower"
+description: "a build tower that is configureable with logic."
+size: 3
+unitType: advanced-build-tower-head
+buildTime: 600
+consumes: {
+  power: 5
+  liquid: nitrogen/50
+}
+//polyColor: 9d47ff
+polyColor: efe3ff
+polyRadius: 6
+itemCapacity: 0
+category: effect
+requiremets: [
+  tungsten/100
+  surge-alloy/50
+  thorium/80
+  silicon/160
+  oxide/45
+]

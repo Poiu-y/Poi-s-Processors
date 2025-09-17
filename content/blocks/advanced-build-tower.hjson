@@ -1,4 +1,4 @@
-type: unitCargoLoader
+type: UnitCargoLoader
 name: "Advanced Build Tower"
 description: "a build tower that is configureable with logic."
 size: 3
@@ -6,7 +6,7 @@ unitType: advanced-build-tower-head
 unitBuildTime: 70
 consumes: {
   power: 5
-  liquid: nitrogen/50
+  liquid: nitrogen/0.5
 }
 polySides: 8
 //polyColor: 9d47ff

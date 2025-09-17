@@ -1,0 +1,29 @@
+type: UnitCargoLoader
+name: Transmition Tower
+description: 
+'''
+instruction manual: ubind this tower and unit get block 
+the block at your desired location, and if the tower 
+is in range you should be able to detect anything
+about the block including data stored in memory blocks.
+'''
+size: 4
+unitType: transmission-tower
+unitBuildTime: 40
+consumes: {
+  power: 1,
+}
+squareSprite: false
+polySides: 5
+//polyColor: 9d47ff
+polyColor: fff17b
+polyRadius: 8
+itemCapacity: 0
+category: logic
+requirements: [
+  tungsten/50,
+  graphite/70,
+  beryllium/50
+  silicon/40,
+  oxide/45
+]

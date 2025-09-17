@@ -1,5 +1,5 @@
 type: tether
-name: "Advanced Build Tower"
+name: "Advanced Build Tower part"
 flying: true
 buildSpeed: 1
 isEnemy: false

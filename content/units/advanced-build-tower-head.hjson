@@ -4,6 +4,7 @@ description: "just a facade that allows for processors to [green]ubind[] the Adv
 flying: false
 commands: [move, repair, rebuild, assist]
 buildSpeed: 1
+rotateToBuilding: true
 isEnemy: false
 canBuild:true
 logicControllable: true

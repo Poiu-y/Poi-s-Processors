@@ -67,3 +67,4 @@ weapons: [
 research: {
     parent: advanced-build-tower
 }
+template: ErekirUnitType

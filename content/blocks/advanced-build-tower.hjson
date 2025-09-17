@@ -2,7 +2,7 @@ type: UnitCargoLoader
 name: Advanced Build Tower
 description: a build tower that is configureable with logic.
 size: 3
-UnitType: advanced-build-tower-head
+unitType: advanced-build-tower-head
 unitBuildTime: 70
 consumes: {
   power: 5,
@@ -14,7 +14,7 @@ polyColor: efe3ff
 polyRadius: 8
 itemCapacity: 0
 category: effect
-requiremets: [
+requirements: [
   tungsten/100,
   surge-alloy/50,
   thorium/80,

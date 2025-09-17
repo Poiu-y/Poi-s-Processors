@@ -1,0 +1,27 @@
+type: tether
+name: "Transmission Tower Part"
+description: "just a facade that allows for processors to [green]ubind[]"
+flying: false
+range: 250
+isEnemy: false
+logicControllable: true
+allowedInPayloads: false
+playerControllable: false
+createWreck: false
+useUnitCap: false
+deathSound: none
+deathExplosionEffect: none
+drawCell: false
+speed: 0
+physics: false
+bounded: false
+rotateSpeed: 0
+accel: 0
+drag: 1
+lowAltitude: false
+outlineColor: 2c2d38ff
+payloadCapacity: 0
+health: 60
+hitSize: 0
+hidden: false
+itemCapacity: 0

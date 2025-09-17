@@ -10,7 +10,7 @@ consumes: {
 }
 //polyColor: 9d47ff
 polyColor: efe3ff
-polyRadius: 6
+polyRadius: 8
 itemCapacity: 0
 category: effect
 requiremets: [

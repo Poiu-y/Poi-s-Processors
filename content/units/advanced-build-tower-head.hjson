@@ -13,6 +13,8 @@ deathSound: none
 deathExplosionEffect: none
 drawCell: false
 speed: 0
+physics: false
+bounded: false
 rotateSpeed: 1
 accel: 0
 drag: 1

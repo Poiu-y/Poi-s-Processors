@@ -1,4 +1,4 @@
-type: unitCargoLoader
+type: UnitCargoLoader
 name: "Advanced Build Tower"
 description: "a build tower that is configureable with logic."
 size: 3

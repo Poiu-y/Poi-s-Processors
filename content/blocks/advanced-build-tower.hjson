@@ -12,7 +12,7 @@ squareSprite: false
 polySides: 8
 //polyColor: 9d47ff
 polyColor: efe3ff
-polyRadius: 8
+polyRadius: 19
 itemCapacity: 0
 category: effect
 requirements: [

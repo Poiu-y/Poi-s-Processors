@@ -28,7 +28,7 @@ itemCapacity: 0
 weapons: [
     {
         x: 0.4
-        y: 1
+        y: 20
         mirror: true
         name: nor
         continuous: true

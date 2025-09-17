@@ -31,8 +31,8 @@ weapons: [
         y: 20
         mirror: true
         name: nor
-        continuous: true
-        alwaysContinuous: true
+        continuous: false
+        alwaysContinuous: false
         ejectEffect: none
         shootSound: none
         shootY: 0

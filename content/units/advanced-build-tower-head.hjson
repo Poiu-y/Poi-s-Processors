@@ -1,6 +1,6 @@
 type: tether
 name: "Advanced Build Tower part"
-flying: true
+flying: false
 buildSpeed: 1
 isEnemy: false
 canBuild:true
@@ -23,6 +23,6 @@ outlineColor: 565666ff
 payloadCapacity: 0
 health: 60
 hitSize: 0
-//hidden: true
+hidden: true
 itemCapacity: 0
 engines: []

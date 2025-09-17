@@ -2,7 +2,7 @@ type: UnitCargoLoader
 name: Advanced Build Tower
 description: a build tower that is configureable with logic.
 size: 3
-unitType: advanced-build-tower-head
+UnitType: advanced-build-tower-head
 unitBuildTime: 70
 consumes: {
   power: 5,

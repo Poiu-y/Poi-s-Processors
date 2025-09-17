@@ -1,4 +1,5 @@
 type: tether
+template: ErekirUnitType
 name: "Transmission Tower Part"
 description: "just a facade that allows for processors to [green]ubind[]"
 flying: false

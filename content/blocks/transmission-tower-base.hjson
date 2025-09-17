@@ -7,7 +7,7 @@ the block at your desired location, and if the tower
 is in range you should be able to detect anything
 about the block including data stored in memory blocks.
 '''
-size: 4
+size: 5
 unitType: transmission-tower
 unitBuildTime: 40
 consumes: {

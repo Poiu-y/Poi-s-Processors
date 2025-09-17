@@ -17,7 +17,7 @@ squareSprite: false
 polySides: 5
 //polyColor: 9d47ff
 polyColor: fff17b
-polyRadius: 15
+polyRadius: 9
 itemCapacity: 0
 category: logic
 requirements: [

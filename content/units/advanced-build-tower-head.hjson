@@ -27,11 +27,11 @@ hidden: true
 itemCapacity: 0
 weapons: [
     {
-        x: 0.4
+        x: 0
         y: 10
-        mirror: true
+        mirror: false
         name: nor
-        continuous: false
+        continuous: true
         alwaysContinuous: false
         ejectEffect: none
         shootSound: none

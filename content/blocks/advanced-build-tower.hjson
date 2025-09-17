@@ -15,9 +15,9 @@ polyRadius: 8
 itemCapacity: 0
 category: effect
 requiremets: [
-  tungsten/100
-  surge-alloy/50
-  thorium/80
-  silicon/160
-  oxide/45
+  tungsten/100,
+  surge-alloy/50,
+  thorium/80,
+  silicon/160,
+  oxide/45,
 ]

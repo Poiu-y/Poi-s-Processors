@@ -3,7 +3,7 @@ name: "Advanced Build Tower"
 description: "a build tower that is configureable with logic."
 size: 3
 unitType: advanced-build-tower-head
-buildTime: 600
+unitBuildTime: 70
 consumes: {
   power: 5
   liquid: nitrogen/50

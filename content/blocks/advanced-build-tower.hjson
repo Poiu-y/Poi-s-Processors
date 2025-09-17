@@ -8,6 +8,7 @@ consumes: {
   power: 5,
   liquid: nitrogen/0.5
 }
+squareSprite: false
 polySides: 8
 //polyColor: 9d47ff
 polyColor: efe3ff

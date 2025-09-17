@@ -1,13 +1,12 @@
 type: tether
-lifetime: 180
 name: "Advanced Build Tower"
-flying: false
+flying: true
 buildSpeed: 1
 isEnemy: false
 canBuild:true
 logicControllable: true
 allowedInPayloads: false
-playerControllable: false
+playerControllable: true
 createWreck: false
 useUnitCap: false
 deathSound: none

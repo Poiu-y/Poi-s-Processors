@@ -2,7 +2,7 @@ type: tether
 name: "Advanced Build Tower part"
 description: "just a facade that allows for processors to [green]ubind[] the Advanced Build Tower, can be commanded by player."
 flying: false
-commands: [move, repair, rebuild, assist]
+commands: [rebuild, assist]
 buildSpeed: 1
 rotateToBuilding: true
 isEnemy: false

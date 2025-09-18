@@ -1,7 +1,15 @@
 displayName: "Poi's processors [grey](wip)"
 name: "p-processors"
 author: "poiu-y"
-description: "adds new processors for [orange]eriker[]."
+description: 
+'''
+adds new processors for [orange]eriker[].
+
+
+
+coming soon: dismantling tower(logic controlable turret that also dammages blocks on it's team), 
+shield tower(projects an arc shaped shield in an arbitrary direction)
+'''
 minGameVersion: 146
 subtitle: "[olive]frogs"
 version: 0.1
